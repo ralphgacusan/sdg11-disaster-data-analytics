@@ -115,5 +115,5 @@ shiny::runApp("sdg11_disaster_data_dashboard.R")
 - **Dashboard:** Shiny, shinydashboard, shinyWidgets, shinycssloaders, DT
 
 ## References
--
+--
 Key references include the WorldRiskIndex 2025 (Bündnis Entwicklung Hilft), the INFORM Risk Index, Republic Act No. 10121 (Philippine DRRM Act of 2010), the UN Sendai Framework for DRR 2015–2030, and SDG Target 11.5. Full citations are available in the project report.
